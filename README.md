@@ -1,5 +1,11 @@
 # 🚀 CareerPilot AI - AI Career Roadmap Generator
 
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
+![Firebase](https://img.shields.io/badge/Firebase-Backend-orange?logo=firebase)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)
+
+
 CareerPilot AI is a modern career guidance platform developed using Python and Streamlit. It helps students explore career paths, generate personalized learning roadmaps, track progress, access free learning resources, and prepare for interviews.
 
 ---
