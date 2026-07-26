@@ -18,6 +18,38 @@ CareerPilot AI is a modern career guidance platform developed using Python and S
 
 ---
 
+## 📸 Application Screenshots
+
+### 🏠 Home Page
+
+![Home Page](assets/screenshots/home.png)
+
+---
+
+### 🤖 Career Assistant
+
+![Career Assistant](assets/screenshots/career_assistant.png)
+
+---
+
+### 🗺️ My Roadmap
+
+![My Roadmap](assets/screenshots/roadmap.png)
+
+---
+
+### 📈 Progress Tracker
+
+![Progress Tracker](assets/screenshots/progress.png)
+
+---
+
+### 📄 Download PDF
+
+![Download PDF](assets/screenshots/download_pdf.png)
+
+---
+
 ## 🛠 Technologies Used
 
 - Python
